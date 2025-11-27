@@ -136,14 +136,4 @@ Loads a CV (default: `CV_Yassmine_Fki.pdf`) and matches it against analyzed oppo
 - **API Development**: RESTful API for integration with other educational platforms
 - **Machine Learning**: Improve matching accuracy with user feedback and reinforcement learning
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or collaboration opportunities, please reach out to the project maintainer.
